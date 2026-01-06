@@ -29,4 +29,4 @@
 
 ### 📫 Connect with me
 [![Email](https://img.shields.io/badge/Email-vandan172004@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vandan172004@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-zandan17-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/zandan17)
+[![Facebook]([https://img.shields.io/badge/Facebook-zandan17-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/zandan17](https://www.facebook.com/zandann17))
