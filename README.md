@@ -8,7 +8,7 @@
 - 🎓 I'm currently a student at **Ho Chi Minh City University of Education (HCMUE)**.
 - 🚀 Passionate about **Frontend Development**, focusing on building beautiful, responsive, and user-friendly web interfaces.
 - 🔭 I’m currently working on improving my skills with **React** and **TailwindCSS**.
-- 💬 Ask me about: **React, TailwindCSS, JavaScript** or anything about Frontend.
+- 💬 Ask me about: **React, TailwindCSS**.
 
 ---
 
@@ -17,7 +17,6 @@
 **Primary (Front-end):**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 **Additional Skills (Back-end & Databases):**
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
