@@ -20,4 +20,21 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 **Back-end & Databases:**
-![NodeJS](
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Watermelon17855&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Watermelon17855&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+---
+
+### 📫 Connect with me
+[![Email](https://img.shields.io/badge/Email-vandan172004@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vandan172004@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-zandan17-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/zandan17)
