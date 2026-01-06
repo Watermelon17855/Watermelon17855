@@ -6,24 +6,26 @@
 
 ### 👨‍💻 About Me
 - 🎓 I'm currently a student at **Ho Chi Minh City University of Education (HCMUE)**.
-- 🚀 Passionate about **Fullstack Development**, focusing on building scalable and user-friendly web applications.
-- 🔭 I’m currently working on improving my skills with **React** and **Node.js**.
-- 💬 Ask me about: **React, TailwindCSS, Node.js** or anything about Web Dev.
+- 🚀 Passionate about **Frontend Development**, focusing on building beautiful, responsive, and user-friendly web interfaces.
+- 🔭 I’m currently working on improving my skills with **React** and **TailwindCSS**.
+- 💬 Ask me about: **React, TailwindCSS, JavaScript** or anything about Frontend.
 
 ---
 
 ### 🛠 Tech Stack
 
-**Front-end:**
+**Primary (Front-end):**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-**Back-end & Databases:**
+**Additional Skills (Back-end & Databases):**
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
 
 
 ### 📫 Connect with me
