@@ -25,15 +25,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Watermelon17855&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Watermelon17855&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
----
 
 ### 📫 Connect with me
 [![Email](https://img.shields.io/badge/Email-vandan172004@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vandan172004@gmail.com)
